@@ -1,0 +1,19 @@
+.headding{ 
+    width:100%; font-size:30px; color:blueviolet; font-family:Cochin; box-shadow:10px 15px 30px black; margin-top: 0px;
+}
+
+.b1{
+    font-size:25px; font-family:monospace; box-shadow:15px 15px 20px black
+
+}
+
+canvas{
+  animation-name:anshul; animation-duration: 4s; animation-iteration-count:infinite ; border: 6px ridge black; border-radius: 5px 
+}
+
+@keyframes anshul{
+from{box-shadow:1px 1px 40px red;}to{box-shadow:1px 1px 40px blue;}
+
+
+
+}
